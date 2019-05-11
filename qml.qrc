@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Menu.bmp</file>
+        <file>images/Digital Gauge.bmp</file>
+        <file>images/Doctor.bmp</file>
+        <file>images/Man-Drinking-02.bmp</file>
+        <file>images/Monitor-01.bmp</file>
+        <file>images/Night-Lamp.bmp</file>
+        <file>images/Semi-Quaver-01.bmp</file>
+        <file>images/Soup-01.bmp</file>
+        <file>images/Speaker-Volume.bmp</file>
+        <file>images/Telephone - Ringing-02.bmp</file>
+        <file>menu/CalibrationMotion.qml</file>
+        <file>Clock.qml</file>
+        <file>Font_clock.ttf</file>
+        <file>menu/CalibrationEmersion.qml</file>
+        <file>menu/QmlSettings.qml</file>
+        <file>main_old.qml</file>
+        <file>Sound.wav</file>
+    </qresource>
+</RCC>
